@@ -27,5 +27,11 @@
  <img src=https://github-readme-stats.vercel.app/api/wakatime?username=@AllanNS&show_icons=true&count_private=true&icon_color=f86b11&theme=radical alt=allansifuna />
 </div>
 
+<h2 align="center" class="text-purple"><samp><strong>My Open Source Projects Hosted On PYPI</strong></samp></h2>
+
+<div align="center">
+ <img src=https://github-readme-stats.vercel.app/api/pin/?username=allansifuna&repo=Flask-Mpesa&show_icons=true&count_private=true&icon_color=f86b11&theme=radical alt=allansifuna />
+ <img src=https://github-readme-stats.vercel.app/api/pin/?username=allansifuna&repo=Flask-RestCountries&show_icons=true&count_private=true&icon_color=f86b11&theme=radical alt=allansifuna />
+</div>
 
 
