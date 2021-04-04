@@ -15,14 +15,13 @@
 <a href=https://www.linkedin.com/in/allan-sifuna-623955159 target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="allan-sifuna-623955159" height="20" width="20" /></a>
 </p>
 
-<div align='center'>
+<div >
  <img src=https://github-readme-stats.vercel.app/api?username=allansifuna&show_icons=true&count_private=true&icon_color=f86b11&theme=radical alt=allansifuna />
+</div>
+<div >
  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=allansifuna&icon_color=f86b11&theme=radical />
 </div>
-<div align='center'>
- <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=allansifuna&icon_color=f86b11&theme=radical />
-</div>
-<div align='center'>
+<div >
  <img src=https://github-readme-stats.vercel.app/api/wakatime?username=AllanNS&show_icons=true&count_private=true&icon_color=f86b11&theme=radical alt=allansifuna />
 </div>
 
