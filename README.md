@@ -20,7 +20,7 @@
 </div>
 <br>
 <div align="center">
- <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=allansifuna&icon_color=f86b11&theme=radical />
+ <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=allansifuna&layout=Compact&icon_color=f86b11&theme=radical />
 </div>
 <br>
 <div align="center">
