@@ -16,8 +16,8 @@
 </p>
 
 <div align='center'>
- <img src=https://github-readme-stats.vercel.app/api?username=allansifuna&show_icons=true&count_private=true&icon_color=f86b11&theme=cobalt alt=allansifuna />
- <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=allansifuna&layout=compact&icon_color=f86b11&theme=cobalt />
+ <img src=https://github-readme-stats.vercel.app/api?username=allansifuna&show_icons=true&count_private=true&icon_color=f86b11&theme=radical alt=allansifuna />
+ <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=allansifuna&layout=compact&icon_color=f86b11&theme=radical />
 </div>
 
 
