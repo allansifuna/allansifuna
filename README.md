@@ -10,7 +10,7 @@
 <p>
 
 <p align="center">
-<a href=https://dev.to/allanns target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="@allanns" height="30" width="30" /></a>
+<a href=https://dev.to/allanns target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="@allanns" height="30" width="30" color="white" /></a>
 <a href=https://twitter.com/@sifuna324 target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="@sifuna324" height="20" width="20" /></a>
 <a href=https://www.linkedin.com/in/allan-sifuna-623955159 target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="allan-sifuna-623955159" height="20" width="20" /></a>
 </p>
