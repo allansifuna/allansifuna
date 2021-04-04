@@ -18,11 +18,11 @@
 <div align="center">
  <img src=https://github-readme-stats.vercel.app/api?username=allansifuna&show_icons=true&count_private=true&icon_color=f86b11&theme=radical alt=allansifuna />
 </div>
-
+<br>
 <div align="center">
  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=allansifuna&icon_color=f86b11&theme=radical />
 </div>
-
+<br>
 <div align="center">
  <img src=https://github-readme-stats.vercel.app/api/wakatime?username=AllanNS&show_icons=true&count_private=true&icon_color=f86b11&theme=radical alt=allansifuna />
 </div>
